@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Fase em pixel art: o personagem do Miguel Henriques Coelho pula nos blocos Java, JS, Node, React, SQL e Godot até a bandeira de LEVEL UP">
+  <img src="assets/fase.svg" width="100%" alt="Fase em pixel art: o personagem do Miguel Henriques Coelho pula nos blocos Java, JS, Node, React, SQL e Godot até a bandeira de LEVEL UP">
 </div>
 
 <p align="left">
